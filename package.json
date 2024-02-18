@@ -26,14 +26,10 @@
     "url": "git+https://github.com/ihor/react-native-scalable-image.git"
   },
   "dependencies": {},
-  "devDependencies": {
-    "@types/react": "18.2.0",
-    "@types/react-native": "0.72.6"
-  },
   "peerDependencies": {
     "prop-types": "^15.7.2",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.73.2"
   },
   "scripts": {}
 }
